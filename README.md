@@ -30,8 +30,8 @@ Before you begin, ensure you have these, or similar parts, nearby:
 
 ### Preparing Pico
 
-Install version **Micropython 1.23.0**, or later, onto the device. This example uses the ***deque*** class
-that is available starting in the version specified.
+Install version **Micropython 1.23.0**, or later, onto the device. This example uses methods of the ***deque*** class
+that may not exist in earlier versions.
 
 [Installing Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 
